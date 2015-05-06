@@ -1,0 +1,1187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Plaza Corporate v1.2 v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-09 09:16:16+0000\n"
+"Last-Translator: admin <gogetthemes@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:1
+#: archive.php:1
+#: left-page.php:1
+#: one-single-portfolio.php:1
+#: page.php:1
+#: pop-single-portfolio.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#: search.php:1
+#: single-team-post.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 - Fantaisie réunion vous ici!"
+
+#: 404.php:1
+#: archive.php:1
+#: left-page.php:1
+#: one-single-portfolio.php:1
+#: page.php:1
+#: pop-single-portfolio.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#: search.php:1
+#: single-team-post.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "Ne paniquez pas, nous allons sortir ensemble. Nous allons explorer nos options ici."
+
+#: 404.php:1
+#: archive.php:1
+#: left-page.php:1
+#: one-single-portfolio.php:1
+#: page.php:1
+#: pop-single-portfolio.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#: search.php:1
+#: single-team-post.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "You can return"
+msgstr "Vous pouvez revenir"
+
+#: 404.php:1
+#: left-page.php:1
+#: one-single-portfolio.php:1
+#: page.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#: search.php:1
+#: single-team-post.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "Home"
+msgstr "Maison"
+
+#: 404.php:1
+#: left-page.php:1
+#: one-single-portfolio.php:1
+#: page.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#: search.php:1
+#: single-team-post.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "&larr; Home"
+msgstr "← Accueil"
+
+#: 404.php:1
+#: left-page.php:1
+#: one-single-portfolio.php:1
+#: page.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#: search.php:1
+#: single-team-post.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "or search for the page you were looking for"
+msgstr "ou recherche de la page que vous recherchez"
+
+#: admin/classes/class.options_machine.php:556
+#@ default
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ default
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#@ default
+msgid "Options Reset"
+msgstr ""
+
+#: archive.php:1
+#, php-format
+#@ GoGetThemes
+msgid "Daily Archives: %s"
+msgstr "Daily Archives:%s"
+
+#: archive.php:1
+#, php-format
+#@ GoGetThemes
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles:%s"
+
+#: archive.php:1
+#, php-format
+#@ GoGetThemes
+msgid "Yearly Archives: %s"
+msgstr "Archives annuel:%s"
+
+#: archive.php:1
+#: search.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "0 Comments"
+msgstr "0 Commentaires"
+
+#: archive.php:1
+#: comments.php:1
+#: search.php:1
+#@ GoGetThemes
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: archive.php:1
+#: comments.php:1
+#: search.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: archive.php:1
+#: search.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "Comments Off."
+msgstr "Commentaires fermés."
+
+#: archive.php:1
+#: search.php:1
+#: single.php:1
+#@ GoGetThemes
+msgid "By"
+msgstr "Par"
+
+#: archive.php:1
+#: search.php:1
+#@ GoGetThemes
+msgid "READ MORE"
+msgstr "LIRE LA SUITE"
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1168
+#@ tgmpa
+#@ GoGetThemes
+msgid "Install Required Plugins"
+msgstr "Installer des plugins obligatoires"
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1169
+#@ tgmpa
+#@ GoGetThemes
+msgid "Install Plugins"
+msgstr "Installer des plugins"
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1170
+#, php-format
+#@ tgmpa
+#@ GoGetThemes
+msgid "Installing Plugin: %s"
+msgstr "Installation Plugin:%s"
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1172
+#, php-format
+#@ GoGetThemes
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant:%1$s."
+msgstr[1] "Ce thème nécessite les plugins suivants:%1$s."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1173
+#, php-format
+#@ GoGetThemes
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande le plugin suivant:% $s."
+msgstr[1] "Ce thème recommande les plugins suivants:%1$s."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1174
+#, php-format
+#@ GoGetThemes
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Désolé, mais vous n&#39;avez pas les autorisations nécessaires pour installer le plugin de l&#39;%. Contactez l&#39;administrateur de ce site à l&#39;aide sur l&#39;obtention du plugin installé."
+msgstr[1] "Désolé, mais vous n&#39;avez pas les autorisations nécessaires pour installer les plugins de l&#39;%. Contactez l&#39;administrateur de ce site à l&#39;aide sur l&#39;obtention des plugins installés."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1175
+#, php-format
+#@ GoGetThemes
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin requis suivant est actuellement inactif:%1$s."
+msgstr[1] "Les plugins requis suivants sont actuellement inactives:%1$s."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1176
+#, php-format
+#@ GoGetThemes
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin recommandé suivant est actuellement inactif:%1$s."
+msgstr[1] "Les plugins recommandées suivantes sont actuellement inactive:%1$s."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1177
+#, php-format
+#@ GoGetThemes
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Désolé, mais vous n&#39;avez pas les autorisations nécessaires pour activer le plugin de l&#39;%. Contactez l&#39;administrateur de ce site à l&#39;aide sur l&#39;obtention du plugin activé."
+msgstr[1] "Désolé, mais vous n&#39;avez pas les autorisations nécessaires pour activer les plugins de l&#39;%. Contactez l&#39;administrateur de ce site à l&#39;aide sur l&#39;obtention des plugins activés."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1178
+#, php-format
+#@ GoGetThemes
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Le plugin suivante doit être mis à jour pour sa dernière version afin d&#39;assurer une compatibilité maximale avec ce thème:%1$s."
+msgstr[1] "Les plugins suivants doivent être mis à jour leur version la plus récente afin d&#39;assurer une compatibilité maximale avec ce thème:%1$s."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1179
+#, php-format
+#@ GoGetThemes
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Désolé, mais vous n&#39;avez pas les autorisations nécessaires pour mettre à jour le plug-in de l&#39;%. Contactez l&#39;administrateur de ce site à l&#39;aide sur l&#39;obtention du plug-in mis à jour."
+msgstr[1] "Désolé, mais vous n&#39;avez pas les autorisations nécessaires pour mettre à jour les plugins de l&#39;%. Contactez l&#39;administrateur de ce site à l&#39;aide sur l&#39;obtention des plugins mis à jour."
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1180
+#@ GoGetThemes
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez l&#39;installation plug-in"
+msgstr[1] "Commencez à installer des plugins"
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1181
+#@ GoGetThemes
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activer plug-in installé"
+msgstr[1] "Activer les plugins installés"
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1182
+#@ tgmpa
+#@ GoGetThemes
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à Plugins requis Installer"
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#: functions.php:1183
+#@ tgmpa
+#@ GoGetThemes
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: comments.php:1
+#, php-format
+#@ GoGetThemes
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">dit:</span>"
+
+#. translators: 1: date, 2: time
+#: comments.php:1
+#, php-format
+#@ GoGetThemes
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce poste est protégé par mot. Entrez le mot de passe pour accéder aux commentaires."
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "No Comments"
+msgstr "Pas de commentaire"
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+#: comments.php:1
+#, php-format
+#@ GoGetThemes
+msgid "Leave a Reply to %s"
+msgstr "Laisser une réponse à%s"
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "Cancel Reply"
+msgstr "Annuler Répondre"
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "Post Comment"
+msgstr "Poster un commentaire"
+
+#: comments.php:1
+#, php-format
+#@ GoGetThemes
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour poster un commentaire."
+
+#: comments.php:1
+#, php-format
+#@ GoGetThemes
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a> . <a href=\"%3$s\" title=\\\"Déconnectez-vous de ce compte\\\">déconnecter?</a>"
+
+#: comments.php:1
+#@ GoGetThemes
+msgid "Your email address will not be published."
+msgstr "Votre adresse de messagerie ne sera pas publiée."
+
+#: comments.php:1
+#, php-format
+#@ GoGetThemes
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Vous pouvez utiliser ces balises et attributs <abbr title=\\\"HyperText Markup Language\\\">HTML:%</abbr> %s"
+
+#: functions.php:175
+#@ GoGetThemes
+msgctxt "taxonomy general name"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: functions.php:176
+#: functions.php:187
+#: functions.php:929
+#@ GoGetThemes
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: functions.php:177
+#@ GoGetThemes
+msgid "Search Testimonials"
+msgstr "Recherche Témoignages"
+
+#: functions.php:178
+#@ GoGetThemes
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: functions.php:179
+#@ GoGetThemes
+msgid "Parent Testimonial"
+msgstr "Témoignage d&#39;un parent"
+
+#: functions.php:180
+#@ GoGetThemes
+msgid "Edit Testimonial"
+msgstr "Modifier Témoignage"
+
+#: functions.php:181
+#@ GoGetThemes
+msgid "Update Testimonial"
+msgstr "Mise à jour Témoignage"
+
+#: functions.php:182
+#@ GoGetThemes
+msgid "Add New Testimonial"
+msgstr "Ajouter un nouvel Témoignage"
+
+#: functions.php:205
+#@ GoGetThemes
+msgctxt "taxonomy general name"
+msgid "Service posts"
+msgstr "agents des services"
+
+#: functions.php:206
+#: functions.php:217
+#@ GoGetThemes
+msgid "Service post"
+msgstr "Après service"
+
+#: functions.php:207
+#@ GoGetThemes
+msgid "Search Service posts"
+msgstr "Rechercher les messages de service"
+
+#: functions.php:208
+#@ GoGetThemes
+msgid "Service posts"
+msgstr "agents des services"
+
+#: functions.php:209
+#@ GoGetThemes
+msgid "Parent Service post"
+msgstr "Parent poste des services"
+
+#: functions.php:210
+#@ GoGetThemes
+msgid "Edit Service post"
+msgstr "Modifier le message service"
+
+#: functions.php:211
+#@ GoGetThemes
+msgid "Update Service post"
+msgstr "Jour après service"
+
+#: functions.php:212
+#@ GoGetThemes
+msgid "Add New Service post"
+msgstr "Ajouter un nouvel agent des services"
+
+#: functions.php:235
+#@ GoGetThemes
+msgctxt "taxonomy general name"
+msgid "Team Members"
+msgstr "Membres de l&#39;équipe"
+
+#: functions.php:236
+#@ GoGetThemes
+msgid "Team member"
+msgstr "Membre de l&#39;équipe"
+
+#: functions.php:237
+#@ GoGetThemes
+msgid "Search Team Members"
+msgstr "Recherche Membres de l&#39;équipe"
+
+#: functions.php:238
+#@ GoGetThemes
+msgid "Team Members"
+msgstr "Membres de l&#39;équipe"
+
+#: functions.php:239
+#@ GoGetThemes
+msgid "Parent Team Member"
+msgstr "Parent Membre de l&#39;équipe"
+
+#: functions.php:240
+#@ GoGetThemes
+msgid "Edit Team Member"
+msgstr "Modifier membre de l&#39;équipe"
+
+#: functions.php:241
+#@ GoGetThemes
+msgid "Update Team Member"
+msgstr "Mise à jour membre de l&#39;équipe"
+
+#: functions.php:242
+#@ GoGetThemes
+msgid "Add New Team Member"
+msgstr "Ajouter un nouveau membre de l&#39;équipe"
+
+#: functions.php:247
+#@ GoGetThemes
+msgid "Team Member"
+msgstr "Membre de l&#39;équipe"
+
+#: functions.php:265
+#@ GoGetThemes
+msgctxt "taxonomy general name"
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: functions.php:266
+#@ GoGetThemes
+msgid "Portfolio Item"
+msgstr "Portefeuille article"
+
+#: functions.php:267
+#@ GoGetThemes
+msgid "Search Portfolio Items"
+msgstr "Recherche Portefeuille Articles"
+
+#: functions.php:268
+#@ GoGetThemes
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: functions.php:269
+#@ GoGetThemes
+msgid "Parent Portfolio Item"
+msgstr "Parent portefeuille article"
+
+#: functions.php:270
+#@ GoGetThemes
+msgid "Edit Portfolio Item"
+msgstr "Modifier portefeuille article"
+
+#: functions.php:271
+#@ GoGetThemes
+msgid "Update Portfolio Item"
+msgstr "Mise à jour du portefeuille article"
+
+#: functions.php:272
+#@ GoGetThemes
+msgid "Add New Portfolio Item"
+msgstr "Ajouter un nouveau portefeuille article"
+
+#: functions.php:277
+#@ GoGetThemes
+msgid "Project"
+msgstr "Project"
+
+#: functions.php:293
+#@ GoGetThemes
+msgctxt "taxonomy general name"
+msgid "Project Categories"
+msgstr "Catégories de projets"
+
+#: functions.php:294
+#@ GoGetThemes
+msgid "Project Category"
+msgstr "Catégorie de projet"
+
+#: functions.php:295
+#@ GoGetThemes
+msgid "Search Project Categories"
+msgstr "Recherche Catégories de projets"
+
+#: functions.php:296
+#@ GoGetThemes
+msgid "All Project Categories"
+msgstr "Toutes les catégories de projets"
+
+#: functions.php:297
+#@ GoGetThemes
+msgid "Parent Project Category"
+msgstr "Catégorie parente du projet"
+
+#: functions.php:298
+#@ GoGetThemes
+msgid "Edit Project Category"
+msgstr "Modifier la catégorie de projet"
+
+#: functions.php:299
+#@ GoGetThemes
+msgid "Update Project Category"
+msgstr "Mettre à jour la catégorie de projet"
+
+#: functions.php:300
+#@ GoGetThemes
+msgid "Add New Project Category"
+msgstr "Ajouter une nouvelle catégorie de projets"
+
+#: functions.php:301
+#@ GoGetThemes
+msgid "Project Categories"
+msgstr "Catégories de projets"
+
+#: functions.php:391
+#@ GoGetThemes
+msgid "Blog sidebar"
+msgstr "Blog sidebar"
+
+#: functions.php:403
+#@ GoGetThemes
+msgid "Footer Widget 1"
+msgstr "Widget Footer 1"
+
+#: functions.php:413
+#@ GoGetThemes
+msgid "Footer Widget 2"
+msgstr "Widget Footer 2"
+
+#: functions.php:423
+#@ GoGetThemes
+msgid "Footer Widget 3"
+msgstr "Widget Footer 3"
+
+#: functions.php:433
+#@ GoGetThemes
+msgid "Footer Widget 4"
+msgstr "Widget Footer 4"
+
+#: functions.php:603
+#@ GoGetThemes
+msgid "Icon Class"
+msgstr "Icône de classe"
+
+#: functions.php:606
+#@ GoGetThemes
+msgid "You can find full list of FontAwesome Icons on <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\">http://fortawesome.github.io/Font-Awesome/icons/</a> site."
+msgstr "Vous pouvez trouver la liste complète des icônes FontAwesome sur <a href=\\\"http://fortawesome.github.io/Font-Awesome/icons/\\\">http://fortawesome.github.io/Font-Awesome/icons/</a> site."
+
+#: functions.php:612
+#@ GoGetThemes
+msgid "Icon Image"
+msgstr "Icon Image"
+
+#: functions.php:615
+#@ GoGetThemes
+msgid "You can upload your own image instead of icon"
+msgstr "Vous pouvez télécharger votre propre image à la place de l&#39;icône"
+
+#: functions.php:621
+#@ GoGetThemes
+msgid "Icon URL"
+msgstr "Icône Web"
+
+#: functions.php:624
+#@ GoGetThemes
+msgid "If you want you can add link to your service icon. Ex.: http://your_link.com"
+msgstr "Si vous voulez, vous pouvez ajouter un lien vers votre icône du service. Ex:. Http://your_link.com"
+
+#: functions.php:653
+#@ GoGetThemes
+msgid "Slider Images"
+msgstr "Curseur Images"
+
+#: functions.php:656
+#: functions.php:696
+#@ GoGetThemes
+#@ default
+msgid "Uploaded images will be cropped to good looking size."
+msgstr "Images téléchargées seront rognés à la bonne taille à la recherche."
+
+#: functions.php:687
+#@ GoGetThemes
+msgid "Person position"
+msgstr "position de la personne"
+
+#: functions.php:693
+#@ GoGetThemes
+msgid "Member gallery"
+msgstr "Galerie des membres"
+
+#: functions.php:702
+#@ GoGetThemes
+msgid "Person social"
+msgstr "Personne sociale"
+
+#: functions.php:899
+#@ GoGetThemes
+msgid "Add Social profile"
+msgstr "Ajouter un profil social"
+
+#: functions.php:923
+#@ GoGetThemes
+msgid "Testimonial Options"
+msgstr "Options de témoignage"
+
+#: functions.php:937
+#@ GoGetThemes
+msgid "Link text"
+msgstr "Le texte du lien"
+
+#: functions.php:945
+#@ GoGetThemes
+msgid "Link URL"
+msgstr "Lien URL"
+
+#: functions.php:982
+#@ GoGetThemes
+msgid "Video type"
+msgstr "Type de vidéo"
+
+#: functions.php:990
+#@ GoGetThemes
+msgid "Video ID"
+msgstr "ID de la vidéo"
+
+#: functions.php:1014
+#@ GoGetThemes
+msgid "Iframe code"
+msgstr "Code Iframe"
+
+#: functions.php:1033
+#@ GoGetThemes
+msgid "Video width"
+msgstr "largeur de la vidéo"
+
+#: functions.php:1041
+#@ GoGetThemes
+msgid "Video height"
+msgstr "hauteur de la vidéo"
+
+#: functions.php:1171
+#@ GoGetThemes
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose n&#39;allait pas avec l&#39;API de plugin."
+
+#: functions.php:1184
+#, php-format
+#@ GoGetThemes
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tous les plugins installés et activés avec succès. %s"
+
+#: home-index.php:1
+#@ GoGetThemes
+msgid "show all"
+msgstr "montrer tout"
+
+#: home-index.php:1
+#: portfolio-page.php:1
+#@ GoGetThemes
+msgid "MORE"
+msgstr "PLUS"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Facebook Like Box Widget."
+msgstr "Facebook Like Box Widget."
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "GoGetTheme Facebook Widget"
+msgstr "GoGetTheme Facebook Widget"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#: includes/widgets/instagram.php:174
+#@ GoGetThemes
+msgid "Title:"
+msgstr "Titre:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Display:"
+msgstr "Affichage:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Render Mode:"
+msgstr "Mode de rendu:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Facebook Page ID:"
+msgstr "Page Facebook ID:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Facebook Page URL:"
+msgstr "Facebook URL de la page:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Connections:"
+msgstr "Connexions:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Width:"
+msgstr "Largeur:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Height:"
+msgstr "Hauteur:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Streams:"
+msgstr "Streams:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Color Scheme:"
+msgstr "Color Scheme:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Border Color:"
+msgstr "Couleur de la bordure:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Show Faces:"
+msgstr "Voir Faces:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Header:"
+msgstr "Header:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Button Style:"
+msgstr "Button Style:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Verb To Display:"
+msgstr "Verbe pour afficher:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Font:"
+msgstr "Police:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "Choose Vertical Floating Style:"
+msgstr "Choisir un style flottant verticale:"
+
+#: includes/widgets/facebook-like-box-widget.php:1
+#@ GoGetThemes
+msgid "AddThis Pub Id:"
+msgstr "AddThis Pub Id:"
+
+#: includes/widgets/flickr_widget.php:1
+#: includes/widgets/instagram.php:151
+#@ GoGetThemes
+msgid "Title"
+msgstr "Titre"
+
+#: includes/widgets/instagram.php:152
+#@ GoGetThemes
+msgid "Access Token"
+msgstr "Jeton d&#39;accès"
+
+#: includes/widgets/instagram.php:153
+#@ GoGetThemes
+msgid "User ID"
+msgstr "ID de l&#39;utilisateur"
+
+#: includes/widgets/instagram.php:154
+#@ GoGetThemes
+msgid "Username"
+msgstr "Nom d&#39;utilisateur"
+
+#: includes/widgets/instagram.php:178
+#@ GoGetThemes
+msgid "User ID:"
+msgstr "ID de l&#39;utilisateur:"
+
+#: includes/widgets/instagram.php:182
+#@ GoGetThemes
+msgid "Access Token:"
+msgstr "Jeton d&#39;accès:"
+
+#: includes/widgets/instagram.php:186
+#@ GoGetThemes
+msgid "Number of Images:"
+msgstr "Nombre d&#39;images:"
+
+#: includes/widgets/instagram.php:195
+#@ GoGetThemes
+msgid "Picture Size:"
+msgstr "Taille de l&#39;image:"
+
+#: includes/widgets/instagram.php:203
+#@ GoGetThemes
+msgid "Link images to full image:"
+msgstr "Lier les images pour agrandir l&#39;image:"
+
+#: includes/widgets/instagram.php:207
+#@ GoGetThemes
+msgid "Show Likes:"
+msgstr "Afficher J&#39;aime:"
+
+#: includes/widgets/instagram.php:211
+#@ GoGetThemes
+msgid "Show Caption:"
+msgstr "Afficher Légende:"
+
+#: includes/widgets/instagram.php:215
+#@ GoGetThemes
+msgid "Debug Mode:"
+msgstr "Debug Mode:"
+
+#: left-page.php:1
+#: page.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#@ GoGetThemes
+msgid "Read more &#8250;"
+msgstr "Lire la suite&gt;"
+
+#: left-page.php:1
+#: page.php:1
+#: portfolio-page.php:1
+#: right-page.php:1
+#@ GoGetThemes
+msgid "Pages:"
+msgstr "Pages:"
+
+#: search.php:1
+#, php-format
+#@ GoGetThemes
+msgid "%s"
+msgstr "%s"
+
+#: searchform.php:1
+#@ GoGetThemes
+msgid "search here &hellip;"
+msgstr "rechercher ..."
+
+#: sidebar-blog.php:1
+#: sidebar.php:1
+#@ GoGetThemes
+msgid "Categories"
+msgstr "Catégories"
+
+#: sidebar.php:1
+#@ parasponsive
+msgid "No categories"
+msgstr ""
+
+#: single.php:1
+#@ GoGetThemes
+msgid "1 Comments"
+msgstr "1 Commentaires"
+
+#: single.php:1
+#@ GoGetThemes
+msgid "Tagged with:"
+msgstr "Tagged with:"
+
+#: single.php:1
+#@ GoGetThemes
+msgid "Shared"
+msgstr "Commun"
+

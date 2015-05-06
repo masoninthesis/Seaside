@@ -1,0 +1,61 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_oceanplaza_woo_v1.3">
+			<key name="home_menu_name" />
+			<key name="serv_menu_name" />
+			<key name="serv_intro_h1" />
+			<key name="serv_intro_h2" />
+			<key name="serv_title" />
+			<key name="serv_subtitle" />
+			<key name="port_menu_name" />
+			<key name="port_intro_h1" />
+			<key name="port_intro_h2" />
+			<key name="port_title" />
+			<key name="port_subtitle" />
+			<key name="price_menu_name" />
+			<key name="price_intro_h1" />
+			<key name="price_intro_h2" />
+			<key name="price_title" />
+			<key name="price_subtitle" />
+			<key name="price_client_title" />
+			<key name="price_client_subtitle" />
+			<key name="about_menu_name" />
+			<key name="about_intro_h1" />
+			<key name="about_intro_h2" />
+			<key name="about_title" />
+			<key name="about_subtitle" />
+			<key name="contact_menu_name" />
+			<key name="contact_intro_h1" />
+			<key name="contact_intro_h2" />
+			<key name="contact_title" />
+			<key name="contact_subtitle" />
+			<key name="cf_title" />
+			<key name="det_title" />
+			<key name="widget_intro_h1" />
+			<key name="widget_title" />
+			<key name="widget_subtitle" />
+			<key name="blog_title" />
+			<key name="blog_subtitle" />
+			<key name="blank1_menu_name" />
+			<key name="blank1_intro_h1" />
+			<key name="blank1_intro_h2" />
+			<key name="blank1_title" />
+			<key name="blank1_subtitle" />
+			<key name="blank2_menu_name" />
+			<key name="blank2_intro_h1" />
+			<key name="blank2_intro_h2" />
+			<key name="blank2_title" />
+			<key name="blank2_subtitle" />
+			<key name="blank3_menu_name" />
+			<key name="blank3_intro_h1" />
+			<key name="blank3_intro_h2" />
+			<key name="blank3_title" />
+			<key name="blank3_subtitle" />
+            <key name="recent_menu_name" />
+			<key name="recent_intro_h1" />
+			<key name="recent_intro_h2" />
+			<key name="recent_title" />
+			<key name="recent_subtitle" />
+        </key>
+    </admin-texts>
+</wpml-config>

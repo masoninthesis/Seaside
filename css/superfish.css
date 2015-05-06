@@ -1,0 +1,115 @@
+/*** ESSENTIAL STYLES ***/
+.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sf-menu {
+  margin-top: 35px;
+}
+.sf-menu li {
+	position: relative;
+}
+.sf-menu ul {
+	position: absolute;
+	display: none;
+	top: 100%;
+	left: 0;
+	z-index: 99;
+}
+.sf-menu > li {
+	float: left;
+}
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+	display: block;
+}
+
+.sf-menu a {
+	display: block;
+	position: relative;
+  overflow: hidden;
+}
+.sf-menu > li > a {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.sf-menu a.sf-with-ul {
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+-webkit-border-bottom-left-radius: 0px;
+-webkit-border-bottom-right-radius: 0px;
+-moz-border-radius-bottomleft: 0px;
+-moz-border-radius-bottomright: 0px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0px;
+  
+}
+.sf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+
+
+/*** DEMO SKIN ***/
+.sf-menu {
+	margin-bottom: 1em;
+}
+.sf-menu ul {
+	min-width: 12em; /* allow long menu items to determine submenu width */
+	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+}
+.sf-menu > li > ul > li:first-child > a {
+  border-radius: 0 3px 0 0 ;
+}
+.sf-menu > li > ul > li:last-child > a {
+  border-radius: 0 0px 3px 3px;
+}
+.sf-menu a {
+	padding: .75em 1em;
+	text-decoration: none;
+	zoom: 1; /* IE7 */
+}
+.sf-menu a {
+	color: #585757;
+}
+.sf-menu li li a {
+  color: #fff;
+}
+.sf-menu li li li a {
+  color: #fff;
+}
+.sf-menu li a {
+	background: none;
+	white-space: nowrap; /* no need for Supersubs plugin */
+	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
+	-webkit-transition: background .2s;
+	transition: background .2s;
+}
+.sf-menu ul li a{
+}
+.sf-menu ul ul li a {
+}
+.sf-menu li:hover > a,
+.sf-menu li.sfHover > a{
+	/* only transition out, not in */
+	-webkit-transition: background .2s;
+	transition: background .2s;
+}
+.sf-menu li:hover > a,
+.sf-menu li.sfHover > a {
+  color: #fff;
+}
+.sf-menu li li:hover > a,
+.sf-menu li li.sfHover > a {
+  background: #fff;
+  -webkit-transition: none;
+  transition: none;
+}
+
+
